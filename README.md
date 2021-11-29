@@ -11,3 +11,6 @@ this is the introduction
 Sample website with plenty of files for demos
 THIS IS IN WORKING DIRECTORY
 THIS FILE IS IN WORKING DIRECTORY
+
+### Copyright
+2021 Git.Training.
