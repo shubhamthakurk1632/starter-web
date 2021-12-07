@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work
 
 this is the introduction
 l1
+L2
 
 ## Purpose
 
